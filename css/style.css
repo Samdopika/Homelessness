@@ -381,7 +381,7 @@ button.donate_btn {
     color: #121716;
     font-size: 20px;
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     padding-bottom: 20px;
     font-family: 'Open Sans', sans-serif;
 }
