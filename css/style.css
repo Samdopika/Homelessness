@@ -250,10 +250,11 @@ button {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 0px 20px;
-    font-size: 16px;
+    padding: 20px 20px;
+    font-size: 25px;
     color: #717172;
     text-transform: uppercase;
+    margin-top: 40px;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
@@ -280,10 +281,12 @@ button {
 
 button.donate_btn {
     width: 150px;
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
     background: transparent;
     border: 1px solid #f64646;
+    margin-top: 40px;
+
 }
 
 .bg-light {
@@ -299,12 +302,12 @@ button.donate_btn {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/backgroundd.png);
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    top: -70px;
+
     margin-bottom: 0;
 }
 
@@ -442,7 +445,7 @@ button.donate_btn {
 
 .box_main {
     width: 100%;
-    background-color: #0d5624;
+    background-color: #0c471b;
     clip-path: polygon(100% 0, 100% 75%, 50% 100%, 0 75%, 0 0);
     height: auto;
     padding: 30px 20px 70px 20px;
@@ -885,7 +888,7 @@ button.donate_btn {
 .donate_section {
     width: 100%;
     float: left;
-    background-image: url(../images/donate-bg.png);
+    background-image: url(../images/backgroundd.png);
     height: auto;
     background-repeat: no-repeat;
     background-size: 100%;
