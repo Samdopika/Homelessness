@@ -209,7 +209,7 @@ button {
     margin: 0;
     padding: 0;
     cursor: pointer;
-}
+} 
 
 .full {
     float: left;
@@ -219,6 +219,11 @@ button {
 .layout_padding {
     padding-top: 90px;
     padding-bottom: 0px;
+}
+
+.mission_padding{
+    max-width: 80vw;
+    text-align: center;
 }
 
 .padding_0 {
@@ -578,6 +583,7 @@ button.donate_btn {
     text-transform: uppercase;
     padding-left: 140px;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 .mission_text {
@@ -942,7 +948,7 @@ button.donate_btn {
     position: absolute;
     right: -89px;
     top: 23%;
-    background-color: #120a78;
+    background-color: #0b0747;
 }
 
 #main_slider a.carousel-control-prev {
