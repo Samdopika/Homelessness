@@ -535,7 +535,7 @@ button.donate_btn {
 .about_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0px;
     color: #ffffff;
     padding: 50px 0px;
@@ -666,7 +666,7 @@ button.donate_btn {
 .donate_bt a {
     width: 150px;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
     color: #ffffff;
     background-color: #f64646;
     border: 2px solid #ffffff;
